@@ -1,0 +1,185 @@
+WARNING:
+
+USING THIS GUIDE IS LIKE CHEATING IN THE GAME,
+ONLY AVAILABLE FOR PEOPLE WHO WANT TO TEST ALL 
+GAME FEATURES
+
+We recommend playing at least once for yourself
+before using this guide.
+
+
+
+
+
+We first need to inspect space (keep info in mind, speacially
+the hungry dude)
+
+Take torch1
+
+Lit torch1 up with fire (on the cell).
+
+Move then once to the south.
+
+Then inspect the dark room, in which we are now,
+to notice something strange, at its right. We need the info for much later.
+
+Take the sword1 and apple3 there 
+
+Move south again
+
+Inspect space to find the ladder and a sword. 
+
+Move East
+
+Take the candle and the Bread_Crumbs
+
+turn off Torch1
+
+Inspect the Dining_Room to notice a key, but out of reach. 
+Keep that in mind.
+
+Move West
+
+Take the ladder
+
+Move north 
+
+Move north (to the cell)
+
+Drop the ladder to gain access to the attic (ladder cannot be moved again)
+
+Move up (to the attic)
+
+Take both apples 
+
+Move East
+
+Defeat the guard, attack any times needed.
+
+Take Key1
+
+open door1 with key1
+
+Move East
+
+Take Treasure_key 
+
+Take elixirs
+
+Move West twice
+
+Move down(Cell)
+
+Use Bread_Crumbs to feed your cellmate
+inspect space, he will now tell
+us something that leads to thinking that the unreachable
+key in the Dining_Room will open the hidden door (Corridor1).
+
+Move south twice
+
+Take sword
+
+Move East 
+
+Recover health, use both apples for that
+
+Move East
+
+Defeat the guard, attack as many times as needed.
+
+Use the key to open the door there
+
+Move East, inspect the Library
+You find there a puzzle which you are supposed to 
+figure out but it is pretty clear that u need to drop 
+a lit up candle there to compete the triangle, note that 
+the other candles are not movable.
+This automatically opens the door to the bedroom (East to the library)
+
+Move east
+
+Inspect the bedroom
+
+Take Crit_sword and the Armor
+
+Use Armor to use it and increase your Max_health
+
+Sleep in the Bed to make it night time
+
+Move West twice
+
+Inspect the corridor_2
+
+You can now take another piece of Armor
+
+Use Armor to use it and increase your Max_health
+
+Move East twice(Bedroom again)
+
+Recover health, use both elixirs
+
+Take elixirs there
+
+Venture into the dungeon by moving down(stairs).
+
+Defeat the assassin, just attack and pray as many times as needed 
+(this is a run killer, you might still loose anyways)
+
+Open the door by using the Treasure_key (acquired in the attic alcove)
+
+Move North
+
+Inspect the treasury
+
+Take the dusk Dusk_Key, Hook, Armor and elixirs
+
+Use Armor to use it and increase your Max_health
+
+Move South 
+
+Move up (bedroom)
+
+Move West thrice (Dining_Room)
+
+Now remember that you have a hook now, so 
+use it to get the Dawn_Key, previously unreacheable 
+and here comes the thing, now you can unlock the Secret_Chamber
+on Corridor1, and as it is nightime you can now go through it.
+
+Move West, then North (Corridor1)
+
+Use the Dawn_Key 
+
+Move east to enter the Secret_Chamber
+
+LOOK at the dialogue 
+
+Inspect space for 
+once you choose either, the other will desapear
+
+Take Moon_Armor, it is more reliable
+
+Move East
+
+Move south (Hall)
+
+Use the Dusk_Key to open the door that leads to the Throne_Room
+
+Move south to enter the final room 
+
+Sneak in (it is nightime) take the last piece of Armor from the floor
+
+Move north to get out
+
+Use Armor to use it and increase your Max_health
+
+Use all remaining healing items(Use the two elixirs that you should have)
+
+Move south again
+
+Defeat the Dusk_King by attacking any times you need.
+
+
+
+
+Written by: Atonio Van-Oers Luis

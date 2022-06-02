@@ -1,0 +1,81 @@
+#s:12|A_Entry|Entrance to the attic|Entry to the attic has some objects|1|  /   \  |{ ___   ]|[      --|\__    __|   \  /  |1|0|
+#s:127|A_Corridor|Who is it guarding that door|Corridor has a Guard protecting a closed door at the end|1|  ___   _|_/^^^\_/ |  '  o 0 |   _ z_  |__/ \___/|1|0|
+#s:17|A_Alcove|This looks like a key to me|Alcove has a key|1|  ___    |_/   \_/\|     o 0)|  _ 0o8o]|__/ \___}|1|0|
+#s:11|Cell|Starting position|Cell has a hungry cellmate that is asking you for anything he could get, there is also some fire that you could use to turn on the torches that are on the floor. Also, is it a trapdoor that in the ceiling?|1|_/^^^\_/\|(    __ ]|[    o 0}|{       ]|\__    _/|0|1|
+#s:121|Corridor1|First main corridor|Corridor 1 has something that you could see in the dark, was it a Door with weird inscriptions? there are also some objects|0|  /   \  |{ ___   ]|[    z Z)|\__    _/|   \  /  |0|0|
+#s:16|Secret_Chamber|A decision for the worthy|re is a decision before you, you can only take one, which will it be?|1|_/^^^\_/\|(    __ ]|[    o 0}|{       ]|\__    _/|0|0|
+#s:122|Hall|Hall leading to the throne room|Hall has a ladder, maybe you could use it to get up to the attic through a trapdoor, there is also a big black door, you sense evil behind it|1|  /   \  |{ ___   ]|[      --|\__    __|   \  /  |0|0|
+#s:123|Throne_Room|Lair of the Dusk_King  |Dusk_King is there, you spot a piece of armor which with luck, you could sneak and take it to use it before the combat|1|  /   \  |{ ___   ]|[ /\oo/\)|\__    _/|   \  /  |0|0|
+#s:125|Dining_Room|Dark at the beginning, hides many mysteries|a|0|  /   \  |{ _ _   ]|[  xx   )|\__    _/|   \  /  |0|0|
+#s:126|Corridor2|Second main corridor|Corridor has a Guard protecting a closed door at the end|1|  ___   _|_/   \_/ |     c 0 |   _ 0o8o|__/ \___/|0|0|
+#s:13|Library|What about the third candle? |Library is perfectly arranged, except for a table, with a triangle drawn on it and two candles on two corners, one appears to be missing|1|  ___   _|_/^^^\_/ |  '  o 0 |   _ z_  |__/ \___/|0|0|
+#s:14|Bedroom|This trapdoor may lead somewhere|Bedroom has some useful items. Also there is a trapdoor in a corner, you open it and find some stairs, maybe you could move down and see what is at the end of them|1|  ___    |_/   \_/\|     o 0)|  _ 0o8o]|__/ \___}|0|0|
+#s:15|D_Chamber|Anteroom to the D_Treasury|The Chamber leads to a door that looks very old. But you are not alone, the Dusk Dusk_Assassin shows and hides in the shadows, waiting for you to make the first move|1| _/   \_ |{ _ _   ]|[  xx   )|\    z Z/|   \__/  |-1|0|
+#s:124|D_Treasury|Where the Dusk_Key lays|This room has the treasure of the Dusk_King, the most loyal lackey of his was also guarding the key tho the Throne Room, south of the hall|1|  ___   _|_/   \_/ |     o 0 |   _ 0o8o|__/ \___/|-1|0|
+#o:300|Apple1|Recovers 1 health when used|12|1|-1|-1|0|0|1|0|1|
+#o:301|Apple2|Recovers 1 health when used|12|1|-1|-1|0|0|1|0|1|
+#o:302|Apple3|Recovers 1 health when used|121|1|-1|-1|0|0|1|0|1|
+#o:310|Elixir1|Recovers 3 health when used|124|1|-1|-1|0|0|1|0|1|
+#o:311|Elixir2|Recovers 3 health when used|124|1|-1|-1|0|0|1|0|1|
+#o:312|Elixir3|Recovers 3 health when used|14|1|-1|-1|0|0|1|0|1|
+#o:313|Elixir4|Recovers 3 health when used|14|1|-1|-1|0|0|1|0|1|
+#o:314|Elixir5|Recovers 3 health when used|17|1|-1|-1|0|0|1|0|1|
+#o:315|Elixir6|Recovers 3 health when used|17|1|-1|-1|0|0|1|0|1|
+#o:320|Armor1|Gives +1 Max_health when used|14|1|-1|-1|0|0|1|0|1|    
+#o:321|Armor2|Gives +1 Max_health when used|124|1|-1|-1|0|0|1|0|1|
+#o:322|Armor3|Gives +1 Max_health when used|126|1|-1|-1|0|0|0|0|1|
+#o:323|Armor4|Gives +1 Max_health when used|123|1|-1|-1|0|0|0|0|1|   
+#o:330|Hook|is used to grab something unreachable|124|1|-1|-1|0|0|1|0|-1|
+#o:340|Bed1|Makes it night or day time |17|0|-1|-1|0|0|0|0|-1|
+#o:341|Bed2|Makes it night or day time |14|0|-1|-1|0|0|0|0|-1|
+#o:350|Bread_Crumbs|might be appreciated by someone when used|125|1|-1|-1|0|0|1|0|1|
+#o:399|Key1|opens the Alcove from the A_Corridor(127)|-1|1|-1|505|0|0|1|0|1|               
+#o:385|Key2|opens the Library from Corridor2(126)|-1|1|-1|524|0|0|1|0|1| 
+#o:390|Torch1|can be lit up |11|1|-1|-1|1|0|1|0|-1|
+#o:391|Torch2|can be lit up |11|1|-1|-1|1|0|1|0|-1|
+#o:392|Sword1|increases +0,2 your power|121|1|-1|-1|0|0|1|0|3|
+#o:393|Sword2|increases +0,2 your power|122|1|-1|-1|0|0|1|0|3|
+#o:394|Candle1|Can be lit up|125|1|-1|13|1|0|1|0|-1|                      
+#o:395|Candle2|Cannot be moved|13|0|-1|-1|1|0|1|0|-1|
+#o:396|Candle3|Cannot be moved|13|0|-1|-1|1|0|1|0|-1|
+#o:397|Ladder|will make you able to access the attic from the cell when dropped|122|1|-1|509|0|0|1|0|-1| 
+#o:398|Dawn_Key|is Only for the worthy who can enter the Secret_Chamber|125|1|-1|516|0|0|0|0|1|
+#o:380|Crit_Sword|gives +0,5 Crit chance|14|1|-1|-1|0|0|1|5|-1|
+#o:381|Dusk_Key|is A key to his doorstep|124|1|-1|514|0|0|1|0|1|
+#o:382|Treasure_key|is An old looking key|17|1|-1|519|0|0|1|0|1|
+#o:383|Moon_Armor|gives +10 permanent health, also recovers 10 health |16|1|-1|-1|0|0|0|0|-1|
+#o:384|Sun_Sword|gives +1 permanent attack, deals you 1 damage per attack, enhances all healing items|16|1|-1|-1|0|0|0|0|-1|
+#p:21|Player|11|10|30|0|1| oo |l()p| /\ |
+#e:41|Beggar|11|20|0|9| <o>  |\/8\/ | T L  |
+#e:42|Guard1|127|5|0|1| <F>  |\()[] | LL   |
+#e:43|Guard2|126|5|0|1| <F>  |\()[] | LL   |
+#e:44|Dusk_Assassin|15|7|5|1| /"\  |\$#$/ | L L  |
+#e:45|Dusk_King|123|10|2|2| /""\ |·$##$·| L  L |
+#e:46|Rat1|-2|2|0|1|~(_^> |      |      |
+#e:47|Rat2|-2|2|0|1|~(_^> |      |      |
+#l:504|A_Alcove_w|17|127|3|1|
+#l:505|Door1|127|17|2|0|
+#l:506|A_Corridor_w|127|12|3|1|
+#l:507|A_Entry_e|12|127|2|1|
+#l:508|A_Entry_d|12|11|5|1|
+#l:509|Cell_u|11|12|4|0|
+#l:510|Cell_s|11|121|1|1|
+#l:511|Corridor1_n|121|11|0|1|
+#l:512|Corridor1_s|121|122|1|1|
+#l:513|Hall_n|122|121|0|1|
+#l:514|Throne_Room|122|123|1|0|
+#l:515|Throne_Room_n|123|122|0|1|
+#l:516|Passage|121|16|2|0|
+#l:517|Secret_Chamber_w|16|121|3|1|
+#l:518|D_Treasury_s|124|15|1|1|
+#l:519|Treasure|15|124|0|0|
+#l:529|D_Chamber_u|15|14|4|1|
+#l:520|Hall_e|122|125|2|1|
+#l:521|Dining_Room_w|125|122|3|1|
+#l:522|Dining_Room_e|125|126|2|1|
+#l:523|Corridor2_w|126|125|3|1|
+#l:524|Door2|126|13|2|0|
+#l:525|Library_w|13|126|3|1|
+#l:526|Library_e|13|14|2|0|
+#l:527|Bedroom_w|14|13|3|1|
+#l:528|Bedroom_d|14|15|5|1|

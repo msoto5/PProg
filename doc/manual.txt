@@ -1,0 +1,133 @@
+WELCOME TO "DAY-NIGHT DUNGEON"
+
+Here you would find all the necessary information to enjoy and play the game
+As this is a conversational adventure, we reccomend you read the LORE for a 
+more inmmersive experience in which you will be playing as the DAWN NIGHT
+
+
+
+LORE/CONTEXT:
+
+200 years have passed since the miracle happened. Well "miracle" , that is how it is remembered, at the 
+time it felt like one, but it was not, not for us, not for me. 
+
+When the darkness arrived, all hope was lost, seemingly no one could face the evil that came with it, 
+corrupting people, animal and souls when consumed by it. Nonetheless, HE showed up, HE touched a few 
+'Chosen' ones,giving us power. We became HIS champions, to fight the evil that had sorrounded the last remnants of
+civilization. After that, HE left, only directing from above, we became a force of nature, able to purge
+most of the darkness out of the lands it had consumed. 
+
+Humanity was saved and we were at first considered heroes. But at what cost? Twenty of us were toched by HIM
+when the miracle happenned and as the fight streched every other being started to forget us, we went far out to hunt the
+remaining evil beings down, that was HIS command, the further we went, more of a myth we became. 
+I watched my friends die one by one during this permanent war, it has been 50 years since the last one fell,
+only I remain, hunting evil, again, and again, and again. Did I do something wrong along the way? I often ask myself, 
+but no, HIS command is what I follow, HIS touch a curse rather than a miracle, left alone, seeking an end to this, to be able to finally 
+rest from this Holy duty.
+
+The Dusk_King, in a far castle is causing havoc in the area, Evil that must be purged, HIS words: Destroy him, and you might
+find what you are looking for. Exactly like before, one more fight, will it be my last?
+
+    --DAWN KNIGHT
+  
+
+
+
+BASICS:
+
+The player can move through the castle using the command move, followed
+by n, s, w, e, u, d to move North, South, West, East, Up or Down. Note that
+this command also works when typing move and the full coordinate as in: move north.
+
+We encourage our players to always inspect (lit up or not) spaces and each of the objects
+there (when a space is dark, much of its details, including most objects,
+are unaccessible). In order to obtain info about something, use the command inspect followed 
+by space, to explore the space your player is in, or inspect plus <obj_name>
+to  examine the target object.
+
+To pick up or drop any item (some might be hidden depending on the time it is
+or unless some objects are in our inventory) we must use the drop or take command 
+followed by the target object's name as in take/drop apple. All taken objects(the ones 
+that can be) will be stored in the player's inventory. 
+
+INFORMATION:
+All information needed is displayed on screen, around the map, please do check it before any action
+and after it. For example, combat can only be understood by the health charts and the dialogue box below the map.
+
+VERY IMPORTANT: OBJECTS GUIDE: 
+The USE command will usually act as a "use object". Although some of them won't do much because
+they are not supposed to be used or you might not be in the correct place. The ladder for instance,
+must be DROPPED (not used) in the correct place(same for Candle1), after which, they will be fulfilling their purpose.
+Otherwise, for consumable objects(like healing ones or keys), once used,
+they will be destroyed/consumed.
+
+Torches are a special case. Once taken, they can be lit up with the command TURNON(ton for short) <Torch1>
+and as long as we carry them in our inventory, they will illuminate the place we are in. To disable this, just
+use the command TURNOFF (toff for short) <Torch1>. We reccomend doing that as soon as we have inspected and taken
+the objects we wanted in a space because we might miss many hidden things we might discover from inspecting a dark space.
+
+Apple, beds(usable as long as we are on the same space), elixirs and armor only work with the USE command.
+Swords will aplly their effect as long as they are in our inventory (common swords break after 3 hits so 
+we should have that in mind) 
+
+To open a door with a key we must type: OPEN Door1/Door2 with Key1/Key2 respectively.
+Same goes for special keys and Doors.
+
+Done with the basics, let's carry on with other mechanics of the game
+
+
+KEY WORDS:
+When inspecting objects, some descriptions might not be clear enough so here is a 
+guide for some terms:
+
+Power: Chance to win a combat round (hit an enemy).
+
+Recover: Means heal, not increase Max_health, as long as we are hurt, 
+this object will be useful.
+
+Dusk_Key: A key to his doorstep meaning a key to the Throne_Room,
+the blocked door at the Hall.
+
+
+
+COMBAT:
+From time to time you will encounter an enemy (all of which you must defeat,
+except the fellow cellmate, we dont recommend attacking him,as he has been there 
+since before anyone else, but it is up to you)
+
+The combat system is quite forward, use the command attack inside a room with an enemy,
+and combat will inmediately begin. Each time we use the command, a combat round will occur,
+where we can hit, or be hit by the enemy. We can disengage by moving outside of the room. 
+Healing items can be used at any time can be used at any time but you would get hit by your foe if you are in the same room.
+So heal on another room if you want to recover before and not during combat
+
+Initially, the player has a 50% chance to damage the enemy and same odds to be hit by them. 
+A sword will increase the chance to hit an enemy but won't 
+change the damage we deal (That is reserved for other...special swords). The variable that
+will show damge is base damage, ranging from 1 to 2. 
+
+Another feature added to make combat more challenging is critical hits, which will deal 
+double the base damage. Default crit.chance for us is 0 but this can be increased by obtaining the 
+Crit Sword (inspect the object in-game for more details), but for enemies, it will depend on who 
+they are, a guard won't be dealing critical hits, but for an assassin...this changes a lot.
+
+
+
+DAY-NIGHT FEATURE:
+This is the feature that makes this game different from others. 
+Day by default.
+Beds will be objects inside the bedrooms of the castle and we would be able to sleep
+on them so that it becomes day or night. 
+It is true that most dark spaces will need to be lit up with torches to see the objects that
+are hidden in them. But, many misteries are hidden in the dark, and 
+some of them can only be seen while it is dark. Also some random things only happen at night so beware of 
+surprised attacks, or we might even get lost at some point. Also, shouldn't there be a chance of it becoming
+night or daytime once in a while? There is, time passes a little weird inside the Dusk_Castle.
+We should be using torches wisely, moving them at day or night, from one room to another in order to see or pick up objects, 
+or to cross secret passages. If the myths are right, only those who are worthy will be 
+able to see light when inspecting darkness.
+
+
+Written by : Antonio Van-Oers Luis
+
+
